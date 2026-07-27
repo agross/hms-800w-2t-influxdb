@@ -256,9 +256,9 @@ pyyaml==6.0.3 \
     --hash=sha256:fa160448684b4e94d80416c0fa4aac48967a969efe22931448d853ada8baf926 \
     --hash=sha256:fc09d0aa354569bc501d4e787133afc08552722d3ab34836a80547331bb5d4a0
     # via -r requirements.in
-reactivex==4.1.0 \
-    --hash=sha256:485750ec8d9b34bcc8ff4318971d234dc4f595058a1b4435a74aefef4b2bc9bd \
-    --hash=sha256:c7499e3c802bccaa20839b3e17355a7d939573fded3f38ba3d4796278a169a3d
+reactivex==5.1.0 \
+    --hash=sha256:8668c0a3c8ae8694f1180421b367489d35a8affa281a3605014bf54364eed3a0 \
+    --hash=sha256:b6b40269ebcbf24c53455c1b6790d682122cc8c01c907b8c8da47e2babb3b77e
     # via influxdb-client
 six==1.17.0 \
     --hash=sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274 \
